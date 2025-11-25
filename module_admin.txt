@@ -1,1 +1,4 @@
 git submodule add https://github.com/martin-vindr/MARDM_dev_tools tools
+
+git submodule add https://github.com/VindrWind/MARDM_2025_download_NORA3 dev
+
