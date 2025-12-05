@@ -1,1 +1,5 @@
 git submodule add https://github.com/martin-vindr/MARDM_dev_tools tools
+
+
+git submodule add https://github.com/VindrWind/WTG_visibility_GDAL_viewshed dev
+
