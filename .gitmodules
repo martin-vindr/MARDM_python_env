@@ -1,3 +1,6 @@
 [submodule "tools"]
 	path = tools
 	url = https://github.com/martin-vindr/MARDM_dev_tools
+[submodule "dev"]
+	path = dev
+	url = https://github.com/VindrWind/WTG_visibility_GDAL_viewshed
